@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\colorbutton.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\colorbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mbutton.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\mbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brain.png",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\brain.png"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cbutton.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\cbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.png",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\drawable-hdpi\\images.png"
+    }
+]

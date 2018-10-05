@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:weightSum="1"
+	android:background="@drawable/images"
+	>
+
+	<ImageView
+		android:id="@+id/icon"
+		android:layout_width="match_parent"
+		android:layout_height="63dp"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"
+		android:layout_marginBottom="1dp"
+		android:layout_marginRight="1dp"
+		android:layout_weight="0.73" />
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="369dp"
+		android:layout_height="67dp"
+		android:layout_alignLeft="@id/icon"
+		android:layout_alignParentRight="true"
+		android:gravity="center_horizontal"
+		android:textColor="#fff"
+		android:textSize="30dp"
+		android:layout_weight="0.10" />
+
+	<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="20dip"
+		android:layout_marginBottom="40dip"
+		android:gravity="center"
+		>
+
+	</RelativeLayout>
+
+	<Button
+		android:id="@+id/play"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dip"
+		android:layout_weight="0.04"
+		android:background="@drawable/colorbutton"
+		android:onClick="play"
+		android:text="@string/play"
+		android:textColor="@android:color/holo_red_light"
+		android:textStyle="bold" />
+
+	<Button
+		android:id="@+id/button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/mbutton"
+		android:onClick="newPref"
+		android:text="Game Settings"
+		android:textColor="@android:color/black"
+		android:textStyle="bold"
+		android:layout_weight="0.06" />
+
+	<Button
+		android:id="@+id/exit"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/cbutton"
+		android:onClick="exit"
+		android:text="@string/exit"
+		android:textColor="@android:color/holo_green_light"
+		android:textStyle="bold" />
+
+</LinearLayout>

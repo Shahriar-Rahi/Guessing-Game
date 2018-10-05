@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficulty">
+	    <item>Easy</item>
+	    <item>Normal</item>
+	    <item>Hard</item>
+	    <item>Harder</item>
+	    <item>Insane</item>
+	</string-array>
+    <string-array name="difficultyValues">
+	    <item>1</item>
+	    <item>2</item>
+	    <item>3</item>
+	    <item>4</item>
+	    <item>5</item>
+	</string-array>
+    <string-array name="gameMode">
+	    <item>Time</item>
+	    <item>Tries</item>
+	</string-array>
+    <string-array name="gameModeValues">
+	    <item>1</item>
+	    <item>2</item>
+	</string-array>
+    <string-array name="time">
+	    <item>1 minute</item>
+	    <item>2 minutes</item>
+	    <item>3 minutes</item>
+	</string-array>
+    <string-array name="timeValues">
+	    <item>60000</item>
+	    <item>120000</item>
+	    <item>180000</item>
+	</string-array>
+    <string name="app_name">Guessing Game</string>
+    <string name="back">Back to home screen</string>
+    <string name="endgame">End game</string>
+    <string name="exit">Exit</string>
+    <string name="help">Help</string>
+    <string name="helpText">Guessing Game is an easy game where you have to guess the correct number. There are two modes: Time and Tries\n\nTime mode gives you 1/2/3 minute to come to as high level as possible. For each level up, the range for the random number is increased by 10 times.\n\nTries mode gives you a number in a range according the the chosen difficulty:\nEasy 0-10\nNoraml 0-100\nHard 0-1000\nHarder 0-10000\nInsane 0-100000\nThe goal is to find the number in as few tries as possible\n\nHave fun!\n\n
+    Developed By SHAHRIAR RAHI :)
+    </string>
+    <string name="highscore">High Score</string>
+    <string name="intro">Enter the number you think it is</string>
+    <string name="play">Start game</string>
+    <string name="preferences">Preferences</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Try number</string>
+</resources>

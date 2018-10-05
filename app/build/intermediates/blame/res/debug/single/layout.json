@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devinfo.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\layout\\devinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startscreen.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\layout\\startscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\layout\\help.xml"
+    }
+]

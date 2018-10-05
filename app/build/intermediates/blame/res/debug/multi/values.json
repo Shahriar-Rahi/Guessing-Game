@@ -1,0 +1,238 @@
+[
+    {
+        "outputFile": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 16,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endLine": 15,
+                    "endColumn": 16,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endLine": 23,
+                    "endColumn": 16,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endLine": 28,
+                    "endColumn": 16,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endLine": 33,
+                    "endColumn": 16,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 50,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 52,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 44,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 37,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 37,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endLine": 41,
+                    "endColumn": 13,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endLine": 15,
+                        "endColumn": 13,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 48,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 66,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 43,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 51,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endColumn": 39,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endColumn": 45,
+                    "endOffset": 1930
+                },
+                "from": {
+                    "file": "C:\\Users\\Rahi\\AndroidStudioProjects\\Guessing-Game-Android-App-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
